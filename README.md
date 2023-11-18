@@ -10,8 +10,8 @@
 
 1. Introduction to Advanced Data Wrangling
 2. Gathering Data
-   programmatically unzipping flat files(csv, tsv): read .zip files using `zipfile` and `pandas`. [exercise1](L2_Flat%Files_Demo.ipynb), [exercise2](Exercise%-%Download%and%Load%Flat%Files%-%Starter.ipynb)
-   programmatically downloading files using `requests`: send requests to html webpage and get data. [exercise](L2Demo-ProgrammaticallyDownloadFiles.ipynb)
+   programmatically unzipping flat files(csv, tsv): read .zip files using `zipfile` and `pandas`. [exercise1](L2FlatFilesDemo.ipynb), [exercise2](DownloadandLoadFlatFiles.ipynb)
+   programmatically downloading files using `requests`: send requests to html webpage and get data. [exercise](ProgrammaticallyDownloadFiles.ipynb)
 4. Assessing Data
 5. Cleaning Data
 
