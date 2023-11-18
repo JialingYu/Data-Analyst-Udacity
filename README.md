@@ -10,7 +10,7 @@
 
 1. Introduction to Advanced Data Wrangling
 2. Gathering Data
-   unzip flat files(csv, tsv): read .zip files using `zipfile` and `pandas`. [exercise1](L2_Flat Files_Demo.ipynb), [exercise2](Exercise - Download and Load Flat Files - Starter.ipynb)
+   unzip flat files(csv, tsv): read .zip files using `zipfile` and `pandas`. [exercise1](L2_Flat%Files_Demo.ipynb), [exercise2](Exercise%-%Download%and%Load%Flat%Files%-%Starter.ipynb)
 4. Assessing Data
 5. Cleaning Data
 
