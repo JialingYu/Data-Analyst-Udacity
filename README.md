@@ -6,7 +6,7 @@
  
 1. Explore and inspect data
 2. Manipulate data using pandas and numpy
-3. Communicating results [exercise: explore fuel economy data set](fuel_economy.ipynb)_
+3. Communicating results [exercise: explore fuel economy data set](fuel_economy.ipynb)
 
 ## Advanced Data Wrangling
 
