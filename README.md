@@ -8,7 +8,8 @@
 
 ## Advanced Data Wrangling
 
-1. Introduction to Advanced Data Wrangling
+1. Introduction to Advanced Data Wrangling [Project](Projects/Investigate_a_Dataset.ipynb)
+   
 2. Gathering Data
    programmatically unzipping flat files(csv, tsv): read .zip files using `zipfile` and `pandas`. [exercise1](L2FlatFilesDemo.ipynb), [exercise2](DownloadandLoadFlatFiles.ipynb)
 
@@ -17,7 +18,9 @@
    read .txt file using `glob` into a dataframe: [exercise](L2TextFileStructure.ipynb)
 
    gathering data with APIs: two approaches: use HTTP GET request; use customised developer library(popular websites typically have their library to work with their API) [exercise](L2API.ipynb)
-4. Assessing Data
-5. Cleaning Data
+
+   3. Assessing Data
+      
+4. Cleaning Data
 
 ## Data Visulization With Matplotlib And Seaborn.
