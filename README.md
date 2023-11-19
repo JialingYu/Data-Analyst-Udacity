@@ -2,7 +2,7 @@
 
 ## Data Analysis With Pandas And Numpy 
 
- [**Project**](Projects/Investigate_a_Dataset.ipynb)
+### [**Project**](Projects/Investigate_a_Dataset.ipynb)
  
 1. Explore and inspect data
 2. Manipulate data using pandas and numpy
