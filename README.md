@@ -2,7 +2,7 @@
 
 ## Data Analysis With Pandas And Numpy 
 
-### [**Project; investigate the no show appointment data set, what might be the factors for patients not showing up?**](Projects/Investigate_a_Dataset.ipynb)
+### [**Project: what might be the factors for patients not showing up?**](Projects/Investigate_a_Dataset.ipynb)
  
 1. Explore and inspect data
 2. Manipulate data using pandas and numpy
