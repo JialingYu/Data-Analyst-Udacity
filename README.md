@@ -21,9 +21,15 @@
    c. read .txt file using `glob` into a dataframe: [exercise](L2TextFileStructure.ipynb)
 
    d. gathering data with APIs: two approaches: use HTTP GET request; use customised developer library(popular websites typically have their library to work with their API) [exercise](L2API.ipynb)
+   
+   e. json files in python: use python to process json files. [exercise](L2JSONinpython.ipynb)
 
-3. Assessing Data
+   
+
+   
+
+4. Assessing Data
       
-4. Cleaning Data
+5. Cleaning Data
 
 ## Data Visulization With Matplotlib And Seaborn.
