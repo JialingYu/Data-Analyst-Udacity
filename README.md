@@ -16,7 +16,7 @@
    
    a. programmatically unzipping flat files(csv, tsv): read .zip files using `zipfile` and `pandas`. [exercise1](L2FlatFilesDemo.ipynb), [exercise2](DownloadandLoadFlatFiles.ipynb)
 
-   b. programmatically downloading files using `requests`: send requests to html webpage and get data. [exercise](ProgrammaticallyDownloadFiles.ipynb)
+   b. programmatically downloading files using `requests`: send requests to html webpage and get data. [exercise](L2ProgrammaticallyDownloadFiles.ipynb)
 
    c. read .txt file using `glob` into a dataframe: [exercise](L2TextFileStructure.ipynb)
 
