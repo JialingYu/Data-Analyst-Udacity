@@ -24,7 +24,7 @@
    
    e. json files in python: use python to process json files. [exercise](L2JSONinpython.ipynb)
 
-   f. Web scraping: [exercise](L2WebScraping.ipynb)
+   f. Html files and Web scraping: [exercise](L2WebScraping.ipynb), [web scraping](ExerciseScrapeawebpage.ipynb), [html in python](L2HTMLFilesinPython.ipynb)
 
    
 
