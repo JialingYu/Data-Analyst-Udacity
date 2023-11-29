@@ -26,6 +26,12 @@
 
    f. Html files and Web scraping: [exercise](L2WebScraping.ipynb), [web scraping](ExerciseScrapeawebpage.ipynb), [html in python](L2HTMLFilesinPython.ipynb)
 
+   g. database in python: connect to a SQLite database using SQLAlchemy, store a dataframe into database; read table from database into pandas dataframe [database in python](L2RelationalDatabases.ipynb)
+
+   h. other data files format: [Pillow for image files](L2Pillow.ipynb)
+
+   i. non relational database: mongoDB, [Json vs Bson](https://www.mongodb.com/json-and-bson)
+
    
 
    
