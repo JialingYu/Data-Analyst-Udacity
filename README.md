@@ -32,6 +32,12 @@
 
    i. non relational database: mongoDB, [Json vs Bson](https://www.mongodb.com/json-and-bson)
 
+   [Gathering data set using different methods](Exercise_Gathering_Multiple_Datasets.ipynb)
+
+
+3.Assessing data
+There are two main data issues: dirty data and messy data. Dirty data refers to missing, dupicates or incorrect data. Messy data refers to data having different format.
+
    
 
    
