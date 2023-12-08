@@ -35,15 +35,15 @@
    [Gathering data set using different methods](Exercise_Gathering_Multiple_Datasets.ipynb)
 
 
-3.Assessing data
+3. Assessing data
 
 There are two main data issues: dirty data and messy data. Dirty data refers to missing, dupicates or incorrect data. Messy data refers to data having different format.
 
-Dirty data(data quality issue):
+#### Dirty data(data quality issue):
 
 a. assess data quality programmatically. [Assessing Data Quality Programmatically 1](AssessingDataQualityProgrammatically.ipynb) [Assess Data Quality Programmatically 2](AssessDataQualityProgrammatically2.ipynb)
 
-Messy data(data quality issue):
+#### Messy data(data quality issue):
 
 a. analytical data: define a unit of analysis is essential
 
